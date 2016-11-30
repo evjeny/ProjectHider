@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProjectHider</string>
+    <string name="newname">Новое имя файла</string>
+    <string name="pathtofile">Путь к файлу</string>
+    <string name="delete">Удалить из внутренней памяти</string>
+    <string name="frominternal">Из внутренней памяти в SD</string>
+    <string name="fromsd">С SD во внутреннюю память</string>
+    <string name="hbd">Файл был удален из внутренней памяти</string>
+    <string name="wti">Файл был записан во внутреннюю память: </string>
+    <string name="wtsd">Файл был записан на SD: </string>
+    <string name="error">Ошибка при чтении/записи файла:</string>
+    <string name="pickfile">Выбрать файл</string>
+    <string name="main_tab">Главная вкладка</string>
+    <string name="settings">Настройки</string>
+</resources>

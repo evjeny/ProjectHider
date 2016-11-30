@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_ab">#370e9f</color>
+    <color name="bg_window">#030f29</color>
+    <color name="bg_button">#785a5a</color>
+    <style name="Violett" parent="android:Theme.Holo">
+        <item name="android:windowActionBar">@color/bg_ab</item>
+        <item name="android:windowBackground">@color/bg_window</item>
+    </style>
+</resources>
